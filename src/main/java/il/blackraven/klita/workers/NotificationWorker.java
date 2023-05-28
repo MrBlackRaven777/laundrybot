@@ -1,5 +1,6 @@
-package il.blackraven.klita;
+package il.blackraven.klita.workers;
 
+import il.blackraven.klita.*;
 import il.blackraven.klita.orm.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

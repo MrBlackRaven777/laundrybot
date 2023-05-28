@@ -2,6 +2,8 @@ package il.blackraven.klita;
 
 import com.github.f4b6a3.ulid.Ulid;
 import il.blackraven.klita.orm.*;
+import il.blackraven.klita.workers.JobWorker;
+import il.blackraven.klita.workers.NotificationWorker;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 import org.telegram.abilitybots.api.bot.AbilityBot;
